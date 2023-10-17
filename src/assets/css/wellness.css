@@ -1,0 +1,226 @@
+.h2-style{    
+    font-size: 56px;
+    text-align: center; 
+    line-height: 1.17;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+@media (max-width:768px) {
+    .h2-style{
+        font-size: 28px;
+        line-height: 1.21;
+        text-align: center;
+        font-weight: 500;
+    }
+}
+.img-style{
+  width: 60%;
+}
+@media (max-width:768px) {
+    .img-style{
+        width: 100%;
+    }
+}
+.title{
+    font-size: 28px;
+    line-height: 1.021;
+    margin-bottom: 25px;
+    font-weight: 500;
+  }
+  @media (max-width:768px) {
+      .title{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 20px;
+      }
+  }
+  
+  
+  .img-style2{
+    width: 50%;
+  }
+  @media (max-width:768px) {
+      .img-style2{
+          width: 85%;
+      }
+  }
+  
+  
+
+
+
+.text{
+    width: 100%;
+    }
+    @media (max-width:768px) {
+        .text{
+            width: 100%;
+    
+        }
+    }
+    .kit{
+        padding: 51px 72px;
+        
+        }
+        
+        
+        @media (max-width:768px) {
+            .kit{
+                padding: 51px 72px;
+                
+                }
+        }
+
+        @media (max-width:375px) {
+            .kit{
+                padding: 51px 22px;
+        
+            }
+        }
+
+        @media (max-width:414px) {
+            .kit{
+                padding: 51px 22px;
+                
+                }
+            }
+
+        .links-box{ 
+    display: flex;    
+    justify-content: space-around;
+    font-size: 35px;
+    font-weight: 600;
+    color: #d5d5d5;
+    margin-bottom: 30px;
+        }
+        @media (max-width:1024px) {
+            .links-box{
+                font-size: 24px;
+        
+            }
+        }
+
+        @media (max-width:768px) {
+            .links-box{
+                font-size: 22px;
+        
+            }
+        }
+
+        @media (max-width:375px) {
+            .links-box{
+                font-size: 36px;
+                display: block;
+                text-align: center;
+                line-height: 2.5rem;
+        
+            }
+        }       
+
+        @media (max-width:414px) {
+            .links-box{
+                font-size: 36px;
+                display: block;
+                text-align: center;
+                line-height: 2.5rem;
+        
+            }
+        }    
+        
+        
+
+
+        /* .text-left{
+            font-size: 56px;           
+            line-height: 1.07;
+            margin-bottom: 25px;                              
+            font-weight: 600;
+        }
+
+        @media (max-width:768px) {
+            .text-left{
+                font-size: 40px;        
+            }
+        } */
+
+
+        .wellness-heading{
+
+            font-size: 56px;           
+            line-height: 1.07;
+            margin-bottom: 25px;                              
+            font-weight: 500;
+        }
+
+        @media (max-width:375px) {
+            .wellness-heading{
+
+                font-size: 45px;           
+                line-height: 1.07;
+                margin-bottom: 25px;                              
+                font-weight: 500;
+            }
+        }
+
+
+        @media (max-width:414px) {
+            .wellness-heading{
+
+                font-size: 33px;           
+                line-height: 1.07;
+                margin-bottom: 25px;                              
+                font-weight: 500;
+            }
+        }
+
+
+        .image-mov{
+            float: right;
+            margin-top: 30px;
+        }
+
+        
+
+        @media (max-width:1024px) {
+            .image-mov{
+                
+                margin-right: 210px;
+            }
+        } 
+
+
+        @media (max-width:375px) {
+            .image-mov{
+
+                margin-right: 0px;
+            }
+        }
+
+
+        @media (max-width:414px) {
+            .image-mov{
+
+                margin-right: 0px;
+            }
+        }
+
+
+
+        /* @media (max-width:414px) {
+            .image-mov{
+                font-size: 45px;           
+                line-height: 1.07;
+                margin-bottom: 25px;                              
+                font-weight: 500;
+            }
+        } */
+
+
+        .link a{
+            color: #d5d5d5;
+        }
+
+        .link a:hover{
+            color: #2e2e2e;
+        }

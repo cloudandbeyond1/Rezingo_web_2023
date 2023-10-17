@@ -1,0 +1,130 @@
+.h2-style{
+    font-size: 36px; 
+    text-align: center; 
+    line-height: 1.17;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+@media (max-width:768px) {
+    .h2-style{
+        font-size: 28px;
+        line-height: 1.21;
+        text-align: center;
+        font-weight: 500;
+    }
+}
+.img-style{
+  width: 60%;
+}
+@media (max-width:768px) {
+    .img-style{
+        width: 100%;
+    }
+}
+.title{
+    font-size: 28px;
+    line-height: 1.021;
+    margin-bottom: 25px;
+    font-weight: 500;
+  }
+  @media (max-width:768px) {
+      .title{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 20px;
+      }
+  }
+  .make{
+    margin-left: 55px;
+  }
+  @media (max-width:768px) {
+      .make{
+        margin-left: 55px;
+      }
+  }
+  .make2{
+    width: 335px;
+  }
+  @media (max-width:768px) {
+      .make2{
+        width: 335px;
+      }
+  }
+  .img-style2{
+    width: 50%;
+  }
+  @media (max-width:768px) {
+      .img-style2{
+          width: 85%;
+      }
+  }
+  .video-test{
+    font-weight: 500;
+    color: #000;
+    font-size: 24px;
+    text-align: center;
+    line-height: 1.25;
+    margin: 0 auto;
+  }
+  @media (max-width:768px) {
+      .video-test{
+        font-weight: 500;
+        color: #000;
+        font-size: 24px;
+        line-height: 1.25;
+        margin: 0 auto;
+      }
+  }
+  
+  .iframe{
+    padding-bottom:60px;
+    padding-top:20px;
+    
+  }
+  @media (max-width:768px) {
+    .iframe{
+        padding-bottom:35px;
+        padding-top:20px;
+    }
+}
+.iframe1{
+    padding-bottom:60px;
+text-align: center;
+    
+  }
+  @media (max-width:768px) {
+    .iframe1{
+        padding-bottom:15px;
+        text-align: center;
+
+    }
+}
+.BrandLogoOneSingle1{
+padding: 3rem;
+}
+@media (max-width:768px) {
+    .BrandLogoOneSingle1{
+    padding: 0px;
+
+    }
+}
+
+.text{
+    width: 50%;
+    }
+    @media (max-width:768px) {
+        .text{
+            width: 100%;
+    
+        }
+    }
+    .kit{
+        padding-left: 90px;
+        }
+        @media (max-width:768px) {
+            .kit{
+              padding-left: 12px;
+        
+            }
+        }

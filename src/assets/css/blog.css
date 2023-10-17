@@ -1,0 +1,103 @@
+.h2-style{
+    font-size: 31px; 
+    text-align: center; 
+    line-height: 1.17;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+@media (max-width:768px) {
+    .h2-style{
+        font-size: 18px;
+        line-height: 26px;
+        margin: 0;
+        text-align: left;
+    }
+}
+
+.title{
+    line-height: 1.021;
+    font-weight: 500;
+    font-size:39px;
+    margin-top:60px;
+    margin-bottom:60px;
+  }
+  @media (max-width:768px) {
+      .title{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 20px;
+      }
+  }
+
+  .lidot::before {
+    content: "\2022";
+    color: black;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -2em;
+    margin-bottom: 16px;
+    font-size: 20px;
+  }
+
+.text{
+    width: 50%;
+    }
+    @media (max-width:768px) {
+        .text{
+            width: 100%;
+    
+        }
+    }
+.icon1{
+    font-size: 20px;
+    line-height: 40px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    transition: all 0.3s ease 0s;
+    text-align: center;
+    color: #252525;
+    border: 1px solid #252525;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+.font-style{
+    font-size:31px;
+}
+.div{
+    padding-left: 114px;
+}
+@media (max-width:768px) {
+    .div{
+        padding-left: 0px;
+
+    }
+}
+.pad1{
+    padding-left: 80px;
+}
+@media (max-width:768px) {
+    .pad1{
+        padding-left: 0px;
+
+    }
+}
+.pad2{
+    padding-left: 300px;
+}
+@media (max-width:768px) {
+    .pad2{
+        padding-left: 60px;
+
+    }
+}
+
+
+@media (max-width:768px) {
+    .hide1{
+        display: none;
+
+    }
+}

@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "image": "/assets/img/image-slider/groupFitnessClasses.jpg",
+      "title":"Group Fitness Classes",
+      "subtitle":"Forget the featherweights, evidence suggests that wool is the best bedding to pull an all-nighter.",
+      "minute":"1",
+      "link": "/program/1"
+    },
+    {
+      "id": "2",
+      "image": "/assets/img/image-slider/7.jpg",
+      "title":"Sports",
+      "subtitle":"Forget the featherweights, evidence suggests that wool is the best bedding to pull an all-nighter.",
+      "minute":"3",
+      "link": "/program/2"
+    },
+    {
+      "id": "3",
+      "image": "/assets/img/image-slider/10.jpg",
+      "title":"Yoga",
+      "subtitle":"Forget the featherweights, evidence suggests that wool is the best bedding to pull an all-nighter.",
+      "minute":"8",
+      "link": "/program/3"
+    },
+    {
+      "id": "4",
+      "image": "/assets/img/image-slider/nutrition.jpg",
+      "title":"Nutrition",
+      "subtitle":"Forget the featherweights, evidence suggests that wool is the best bedding to pull an all-nighter.",
+      "minute":"2",
+      "link": "/program/4"
+    },
+    {
+      "id": "5",
+      "image": "/assets/img/image-slider/outdoorActivities.jpg",
+      "title":"Outdoor Activities",
+      "subtitle":"Forget the featherweights, evidence suggests that wool is the best bedding to pull an all-nighter.",
+      "minute":"6",
+      "link": "/program/5"
+    },
+    {
+      "id": "6",
+      "image": "/assets/img/image-slider/stretching.jpg",
+      "title":"Stretching and Flexibility Workshops",
+      "subtitle":"Forget the featherweights, evidence suggests that wool is the best bedding to pull an all-nighter.",
+      "minute":"5",
+      "link": "/program/6"
+    }
+  ]
+  
