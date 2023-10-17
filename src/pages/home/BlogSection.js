@@ -65,6 +65,7 @@ const BlogSection = ({
     <div className="row">
     <div className="col-lg-8">
     <div>
+      {/* heading */}
     <h2 className="h2-style">Taking skin from lacklustre to luminous is all in a day’s work for A-list aesthetician, Joanna Czech</h2> 
     <div style={{height: "42px"}}></div>
      <div style={{display: "flex",justifyContent: "space-between", padding: "19px 0 14px", borderBottom: "1px solid #979797", borderTop: "1px solid #979797"}}>
